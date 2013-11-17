@@ -19,6 +19,15 @@ Features
 * Holo theme on every device
 * Support for Android 2.2+ (but works best on Android 4.0+)
 
+What I am aiming to add in this Fork
+------------------------------------
+
+To get me started with Android development I really would like to implement a Reddit gambling system.
+
+Something where the user may be able to bet on who many upvotes a post is going to receive.
+
+This is my first experience with Android coding so it will be rough ;)
+
 
 Reporting Bugs
 --------------
