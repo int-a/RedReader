@@ -26,7 +26,7 @@ To get me started with Android development I really would like to implement a Re
 
 Something where the user may be able to bet on who many upvotes a post is going to receive.
 
-This is my first experience with Android coding so it will be rough ;)
+This is my first experience with Android coding so it will certainly be a challenge.
 
 
 Reporting Bugs
